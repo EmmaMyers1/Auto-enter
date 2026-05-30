@@ -17,8 +17,6 @@ Auto Enter 是一个适用于 **Claude Code CLI** 的 Windows 自动回车 Skill
 - 可设置自动回车间隔，例如 3 秒、5 秒、10 秒。
 - 支持查看状态、停止运行、列出可用终端窗口。
 - 使用 `${CLAUDE_SKILL_DIR}` 定位脚本路径，避免硬编码本机路径。
-- 已清理 `.git`、`__pycache__`、`.pyc`、运行 PID 等不适合上传 GitHub 的文件。
-
 ### 仓库结构
 
 ```text
@@ -202,7 +200,6 @@ Auto Enter is a Windows-only **Claude Code CLI Skill** that sends `Enter` to Win
 - Configurable interval, such as 3, 5, or 10 seconds.
 - Supports start, stop, status check, and window listing.
 - Uses `${CLAUDE_SKILL_DIR}` to locate bundled scripts, avoiding hard-coded local paths.
-- Clean GitHub-ready structure without `.git`, `__pycache__`, `.pyc`, or runtime PID files.
 
 ### Repository structure
 
