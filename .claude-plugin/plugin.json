@@ -1,0 +1,22 @@
+{
+  "name": "auto-enter",
+  "version": "1.0.0",
+  "description": "Windows Auto-Enter skill for Claude Code CLI. Sends Enter to Windows Terminal, cmd, or PowerShell at configurable intervals to help approve permission prompts when explicitly started by the user.",
+  "author": {
+    "name": "EmmaMyers1",
+    "url": "https://github.com/EmmaMyers1"
+  },
+  "repository": "https://github.com/EmmaMyers1/auto-enter",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "agent-skills",
+    "windows",
+    "powershell",
+    "windows-terminal",
+    "automation",
+    "auto-enter",
+    "permission-prompts"
+  ]
+}

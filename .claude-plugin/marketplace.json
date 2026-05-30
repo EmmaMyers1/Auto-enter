@@ -1,0 +1,15 @@
+{
+  "name": "auto-enter",
+  "owner": {
+    "name": "EmmaMyers1",
+    "url": "https://github.com/EmmaMyers1"
+  },
+  "plugins": [
+    {
+      "name": "auto-enter",
+      "source": "./",
+      "description": "Windows Auto-Enter skill for Claude Code CLI. Automatically sends Enter to terminal windows at configurable intervals after the user explicitly starts it.",
+      "version": "1.0.0"
+    }
+  ]
+}

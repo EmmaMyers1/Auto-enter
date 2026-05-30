@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Runtime state
+.auto_enter_pid
+scripts/.auto_enter_pid
+**/.auto_enter_pid
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local env
+.env
+.venv/
+venv/
