@@ -175,7 +175,7 @@ Remove-Item -Recurse -Force "$env:USERPROFILE\.claude\skills\auto-enter"
 /plugin uninstall auto-enter@auto-enter
 ```
 
-### GitHub 仓库描述建议
+### 仓库描述
 
 ```text
 Windows Auto-Enter skill for Claude Code CLI that sends Enter to terminal windows at configurable intervals to help approve permission prompts.
@@ -360,7 +360,7 @@ For plugin installs, run this inside Claude Code:
 /plugin uninstall auto-enter@auto-enter
 ```
 
-### Suggested GitHub repository description
+###  Repository description
 
 ```text
 Windows Auto-Enter skill for Claude Code CLI that sends Enter to terminal windows at configurable intervals to help approve permission prompts.
